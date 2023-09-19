@@ -41,6 +41,7 @@ html , body{
     background-color: antiquewhite;
     color: rgb(121, 80, 28);
     font-weight: 600;
+    font-size: 20px;
     padding: 10px 20px;
     border-radius: 7px;
 }
@@ -48,6 +49,8 @@ html , body{
     width: 100%;
     height: calc(100% - 10%);
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     padding: 20px;
     gap: 8px;
